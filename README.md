@@ -1,2 +1,2 @@
 # Sales-website
-A Html/Css sales website with pop up modal windows
+A Html/CSS sales website with pop up modal windows
